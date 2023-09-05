@@ -1,0 +1,7 @@
+/logs
+
+*.yaml
+
+todo.txt
+temp.py
+technical_documentation.md
